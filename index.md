@@ -57,3 +57,10 @@ layout: default
 *   **重启**：设置完APN，重启手机！这是让设置生效的“魔法步骤”。
 
 　　**个人观察**：好几次帮同行朋友设置，发现他们卡在“APN类型”填什么。其实大部分情况下，填 `default,supl` 就够用了，或者干脆留空试试！蒙古的移动网络设置相对简单
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Mongolia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/mongolia-data-plans)
